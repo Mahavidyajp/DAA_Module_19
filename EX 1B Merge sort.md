@@ -1,5 +1,5 @@
 # EX 1B Merge Sort
-## DATE:
+## DATE: 22/2/25
 ## AIM:
 To Write a Program for Implementing merge sort using python recursion
 

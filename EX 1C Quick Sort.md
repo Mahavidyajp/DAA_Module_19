@@ -1,5 +1,5 @@
 # EX 1C Quick Sort
-## DATE:
+## DATE: 25/2/25
 ## AIM:
  To Write a python program to implement quick sort on the given values and print the sorted list and pivot value of each iteration
 
